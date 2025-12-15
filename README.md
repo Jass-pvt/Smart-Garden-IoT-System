@@ -25,7 +25,7 @@ This project demonstrates the practical integration of **hardware, cloud, and mo
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack 
 
 **Hardware**
 
