@@ -37,7 +37,7 @@ This project demonstrates the practical integration of **hardware, cloud, and mo
 
 **Software & Cloud**
 
-* Arduino IDE
+* Arduino IDE 
 * Firebase Realtime Database
 * React Native
 * JavaScript
