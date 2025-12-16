@@ -69,7 +69,7 @@ Smart-Garden-IoT/
 
 ## 📸 Screenshots
 
-*Add app UI screenshots, Firebase data view, and hardware setup images here.*
+[*Add app UI screenshots, Firebase data view, and hardware setup images here.*](https://github.com/Jass-pvt/Smart-Garden-IoT-System/blob/main/app.jpeg)
 
 ---
 
