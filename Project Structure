@@ -1,1 +1,7 @@
-fuck
+Smart-Garden-IoT/
+│
+├── esp32/              # ESP32 Arduino code
+├── mobile-app/         # React Native application
+├── assets/             # Screenshots and images
+├── README.md
+└── .gitignore
