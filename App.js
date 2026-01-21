@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, TouchableOpacity, Linking } from 'react-native'
 import database from '@react-native-firebase/database';
 
 export default function App() {
-  const [motorOn, setMotorOn] = useState(false);
+  const [motorOn, setMotorOn] = useState(false); 
   const [temperature, setTemperature] = useState(0);
   const [humidity, setHumidity] = useState(0);
 
