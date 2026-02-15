@@ -9,7 +9,7 @@ This project demonstrates the practical integration of **hardware, cloud, and mo
 ## ✨ Key Features
  
 * 📡 **Live Sensor Monitoring**
-  Real-time soil moisture and humidity data from ESP32
+  Real-time soil moisture and humidity data from ESP32 
 
 * ☁️ **Firebase Realtime Database**
   Instant cloud sync with live listeners (no dummy data)
