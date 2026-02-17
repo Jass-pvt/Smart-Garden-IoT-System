@@ -95,8 +95,7 @@ Smart-Garden-IoT/
 ## 👨‍💻 Author
 
 **Jaswanth Rathore S**
-B.E – Computer Science & Engineering
-Interests: IoT, Mobile App Development, Cloud Integration
+
 
 ---
 
