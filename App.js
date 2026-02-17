@@ -40,7 +40,7 @@ export default function App() {
 
       <TouchableOpacity
         style={styles.linkBtn}
-        onPress={() => Linking.openURL('https://your-website-link.com')}
+        onPress={() => Linking.openURL('https://urban-roots-jr.vercel.app/')}
       >
         <Text style={styles.linkText}>Visit Website</Text>
       </TouchableOpacity>
