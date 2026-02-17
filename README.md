@@ -5,7 +5,7 @@ An end-to-end **IoT-based Smart Garden monitoring and control system** that uses
 This project demonstrates the practical integration of **hardware, cloud, and mobile app development**, making it suitable for academic projects, internships, and portfolio showcasing.
 
 ---
-
+APP Link= https://snack.expo.dev/@jaswanthrathore/smart-garden-iot-system
 ## ✨ Key Features
  
 * 📡 **Live Sensor Monitoring**
